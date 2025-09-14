@@ -1,4 +1,4 @@
-I'm a Game Developer That likes to try new thinngs
+I'm a Developer That likes to try new thinngs
 
 
 <!---
